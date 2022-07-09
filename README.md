@@ -14,7 +14,7 @@ Tempo de trabalho no projeto: <a href="https://wakatime.com/badge/github/ambiten
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambitencourt&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianombitencourt&theme=highcontrast&locale=pt-br)](https://git.io/streak-stats)
  
 
 
