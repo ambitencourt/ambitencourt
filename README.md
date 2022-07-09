@@ -10,15 +10,14 @@ Tempo de trabalho no projeto: <a href="https://wakatime.com/badge/github/ambiten
 
  <div>
   <a href="https://github.com/ambitencourt">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambitencourt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambitencourt&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ambitencourt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&locale=pt-br"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ambitencourt&layout=compact&langs_count=7&theme=dracula&locale=pt-br"/>
 </div>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=adrianombitencourt&theme=highcontrast&locale=pt-br)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ambitencourt&theme=highcontrast&date_format=j%2Fn%5B%2FY%5D&locale=pt-br)](https://git.io/streak-stats)
  
 
 
-  
   <a href="https://instagram.com/adrianombitencourt" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href="https://discord.com/channels/@Adriano-M-Bitencourt#8597" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatoadriano.mirandabitencourt@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
