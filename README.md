@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Adriano Miranda Bitencourt, desenvolvedor Flutter/Dart. 
-* O Flutter me escolheu a uns 2 anos atrás e de lá para cá estou cada vez mais feliz em trilhar esse caminho. Atualmente presto serviço como PJ para duas empresas, onde utilizo a plataforma FlutterFlow(low-code) e na outra empresa trabalho desenvolvendo aplicativos internos e externos.
+* O Flutter me escolheu a uns 2 anos atrás e de lá para cá estou cada vez mais feliz em trilhar esse caminho. Atualmente presto serviço como PJ para duas empresas, trabalho desenvolvendo aplicativos internos e externos.
 * Estou desenvolvendo um MVP com pessoas incríveis onde sou membro de uma organização social em prol da redução das desigualdades sociais. O aplicativo foi todo construído em Flutter/Dart consumindo API, para mais detalhes acesse o Readme do projeto aqui:(https://github.com/ambitencourt/ods10);
 
 Tempo de trabalho no projeto: <a href="https://wakatime.com/badge/github/ambitencourt/ods10"><img src="https://wakatime.com/badge/github/ambitencourt/ods10.svg" alt="wakatime"></a>
